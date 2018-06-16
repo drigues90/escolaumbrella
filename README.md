@@ -1,7 +1,7 @@
-# escolaumbrella
+# Escola Umbrella
 Projeto do curso de integração de MongoDB com java
 
-Projeto contem funcionalidades de Crud, e funcionalidade de busca por geolocalização utilizando os recursos do mongo.
+Este é um sistema escolar que permite cadastrar,listar,atualizar e remover alunos,habilidades e cursos. e tambem busca por geolocalização utilizando os recursos do mongodb.
 
 ## Tecnologias usadas
 
