@@ -1,1 +1,1 @@
-web: java -jar target/escolaumbrella-0.0.1-SNAPSHOT.jar
+web: java -jar target/escolaumbrella-0.0.1-SNAPSHOT.jar -Dspring.data.mongodb.uri=$MONGODB_URI
