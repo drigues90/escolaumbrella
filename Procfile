@@ -1,1 +1,1 @@
-web: java -jar target/escolaumbrella-0.0.1-SNAPSHOT.jar -Dspring.data.mongodb.uri=$MONGODB_URI
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/escolaumbrella-0.0.1-SNAPSHOT.jar -Dspring.data.mongodb.uri=$MONGODB_URI
